@@ -1,0 +1,27 @@
+# Backend
+backend/target/
+backend/src/main/resources/META-INF/resources/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Mobile
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/*.jks
+mobile/*.p8
+mobile/*.p12
+mobile/*.key
+mobile/*.mobileprovision
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+.logs/
+logs/
